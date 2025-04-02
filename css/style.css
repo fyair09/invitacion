@@ -506,20 +506,20 @@ button {
 
 .Our_box i {
      border: #fff solid 4px;
-     width: 160px;
-     height: 160px;
+     width: 220px;
+     height: 220px;
      display: flex;
      align-items: center;
      justify-content: center;
      margin: 0 auto;
-     border-radius: 85px;
+     border-radius: 120px;
      transition: ease-in all 0.1s;
      cursor: pointer;
 }
 
 .Our_box i:hover {
-     width: 140px;
-     height: 140px;
+     width: 190px;
+     height: 190px;
      transition: ease-in all 0.2s;
 }
 
